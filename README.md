@@ -13,4 +13,9 @@ After installing the packages, you can run this code as,
  ```
 python3 Loop-TNR.py 
  ```
-By default, The main file "Loop-TNR.py" produces the relative error of free energy density and the central charge of the crtical 2D ising model at bond dimension $\chi =8$. To change some of parameters, such as bond dimensions, number of RG steps, temperature, etc ..., one can add these parameters at the command line.
+By default, The main file "Loop-TNR.py" produces the relative error of free energy density, conformal data and singular value spectrums of the crtical 2D ising model with Bond dimension $\chi =8$. The computation might take some times depending on the environment. (It ends in less than a minute for MacBook Air M1, 2020.) Once computation is done, RG step dependences of the conformal data and singualr value spectrums will be plotted and saved in /CFTdata001 and /spectrum001, respectively.
+
+To change some of parameters, such as bond dimensions, number of RG steps, temperature, etc ..., one can add these parameters at the command line.
+
+Although this sample code is already practical for studying the 2d classical statistical model, we have proposed alternative optimization method in . If you are interested in, please read to our paper.
+
