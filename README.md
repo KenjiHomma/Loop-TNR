@@ -17,5 +17,5 @@ By default, The main file "Loop-TNR.py" produces the relative error of free ener
 
 To change some of parameters, such as bond dimensions, number of RG steps, temperature, etc ..., one can add these parameters at the command line.
 
-Although this sample code is already practical for studying the 2d classical statistical model, we have proposed alternative optimization method in . If you are interested in, please read to our paper.
+Although this sample code is already practical for studying the 2d classical statistical model, we have proposed alternative optimization method in . If you are interested in, please read our paper.
 
