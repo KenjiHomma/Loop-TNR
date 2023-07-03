@@ -20,5 +20,5 @@ To change some of parameters, such as bond dimensions, number of RG steps, tempe
 python3 Loop-TNR.py 16
  ```
 
-Although this sample code is already practical for studying the 2d classical statistical model, we have proposed alternative optimization method in . If you are interested in, please read our paper.
+Although this sample code is already practical for studying the 2d classical statistical model, we have proposed alternative optimization method in arXiv:2306.17479. If you are interested in, please read our paper.
 
